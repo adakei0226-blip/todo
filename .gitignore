@@ -4,3 +4,8 @@
 *.env
 
 __pycache__/
+
+practice_menu.py
+
+state.json
+playwright_practice.py
